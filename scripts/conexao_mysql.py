@@ -5,7 +5,7 @@ import web_scraping
 TABLE = 'filmes'
 DATABASE = 'web_scraping'
 USER = 'diogo'
-PASSWORD = '34254079'
+PASSWORD = 'xxxxxxx'
 
 print('Connecting to the database')
 try:
